@@ -15,7 +15,7 @@ function App() {
 
   // Configuration - Update these values
   const config = {
-    targetBirthday: '2025-09-22T00:00:00', // Change this to the actual birthday date
+    targetBirthday: '2025-09-20T19:30:00', // Change this to the actual birthday date
     recipientName: 'Baby', // Change this to the recipient's name
   };
 
