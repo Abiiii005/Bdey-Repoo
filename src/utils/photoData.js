@@ -1,47 +1,47 @@
 // Selected 11 photos for slideshow
 export const photos = [
   { 
-    url: "/dist/ElevenPhotos/1.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/1.jpg", 
     message: "Cute Girl 💕" 
   },
   { 
-    url: "/ElevenPhotos/2.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/2.jpg", 
     message: "Wonderful Smile 😊" 
   },
   { 
-    url: "/ElevenPhotos/3.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/3.jpg", 
     message: "Sharp Jawline 💎" 
   },
   { 
-    url: "/ElevenPhotos/4.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/4.jpg", 
     message: "Fun Snapchat Moment 📸" 
   },
   { 
-    url: "/ElevenPhotos/5.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/5.jpg", 
     message: "Hot Girl 🔥" 
   },
   { 
-    url: "/ElevenPhotos/6.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/6.jpg", 
     message: "Alagzhu Thangoo 🌸" 
   },
   { 
-    url: "/ElevenPhotos/7.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/7.jpg", 
     message: "Beautiful Woman 🌹" 
   },
   { 
-    url: "/ElevenPhotos/8.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/8.jpg", 
     message: "Sun-Kissed ☀️" 
   },
   { 
-    url: "/ElevenPhotos/9.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/9.jpg", 
     message: "Modern Girl 🌟" 
   },
   { 
-    url: "/ElevenPhotos/10.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/10.jpg", 
     message: "Traditional Girl 🌺" 
   },
   { 
-    url: "/ElevenPhotos/11.jpg", 
+    url: "/Bdey-Repoo/ElevenPhotos/11.jpg", 
     message: "Beautiful Moment Together 💫" 
   }
 ];
