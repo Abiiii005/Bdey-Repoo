@@ -1,7 +1,7 @@
 // Selected 11 photos for slideshow
 export const photos = [
   { 
-    url: "/ElevenPhotos/1.jpg", 
+    url: "/dist/ElevenPhotos/1.jpg", 
     message: "Cute Girl 💕" 
   },
   { 
